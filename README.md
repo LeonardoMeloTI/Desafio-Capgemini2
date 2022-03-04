@@ -35,6 +35,7 @@ Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [
 
 
 Instação do Open JDK 17 - Windows
+
 Baixar o openjdk-17.0.1;
 
 Copiar o caminho da instalção do java. Ex: C:\Program Files\Java\jdk-17.0.1
