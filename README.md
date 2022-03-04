@@ -14,9 +14,10 @@ Exemplo:
 Entrada:
 
 arr = [9,2,1,4,6]
-Saída:
 
-4
+Saída:4
+
+
 Questão 2
 Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que determine o número de elementos pares do vetor que tem uma diferença igual ao valor de x.
 
@@ -31,6 +32,7 @@ Saída:
 Explicação:
 
 Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [3, 1].
+
 
 
 Instação do Open JDK 17 - Windows
