@@ -1,4 +1,4 @@
-# Desafio-Capgemini2
+# Desafio-Capgemini
 Integração da IDE Eclipse com o Github
 
 Desafio
