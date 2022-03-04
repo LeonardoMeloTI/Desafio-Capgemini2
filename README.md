@@ -26,11 +26,10 @@ Exemplo:
 Entrada:
 
 n = [1, 5, 3, 4, 2]
-Saída:
 
-3
+Saída:3
+
 Explicação:
-
 Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [3, 1].
 
 
