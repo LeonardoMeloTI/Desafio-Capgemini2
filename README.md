@@ -4,7 +4,7 @@ Integração da IDE Eclipse com o Github
 Desafio
 O Desafio de programação é a terceira etapa do processo de seleção para a Academia Capgemini 2022. O objetivo é testar os conhecimentos em lógica de programação. Ele foi separado em 3 questões diferentes as quais foram implementadas em JAVA utilizando a IDE Eclipse.
 
-Tecnologia Utilizadas : Eclipse 
+Tecnologia Utilizada e linguagem  :  Eclipse e Java
 
 Questão 1
 A mediana de uma lista de números é basicamente o elemento que se encontra no meio da lista após a ordenação. Dada uma lista de números com um número ímpar de elementos, desenvolva um algoritmo que encontre a mediana.
@@ -32,7 +32,7 @@ Saída:3
 Explicação:
 Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [3, 1].
 
-
+# Como rodar a IDE Eclipse.
 
 Instação do Open JDK 17 - Windows
 
@@ -56,3 +56,5 @@ Conferir se a variável Path, o valor precisa estar %JAVA_HOME%\bin
 
 Após a instalação de todos os programas:
 File > Open Projects from File System... > Directory... > Selecione a pasta com os arquivos baixados > Finish. Com o projeto aberto, abrir o pacote questoes e clicar com o botão esquerdo na classe das questões ir em, Run as, Java Application.
+
+
